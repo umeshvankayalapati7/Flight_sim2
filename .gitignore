@@ -1,3 +1,4 @@
 build/
 *.csv
 *.png
+!docs/sim_plot.png
